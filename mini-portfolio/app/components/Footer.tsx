@@ -18,14 +18,14 @@ export default function Footer() {
     <div className="social-links">
 
         <a
-        href="https://github.com/"
+        href="https://github.com/AnthonyBurgic1?tab=repositories/"
         target="_blank"
         rel="noopener noreferrer">
         
     GitHub </a>
 
     <a
-    href="https://www.linkedin.com/"
+    href="https://www.linkedin.com/feed//"
     target="_blank"
     rel="noopener noreferrer">
     
